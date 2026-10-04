@@ -1,22 +1,29 @@
+'''
+The setup.py file is an essential part of packaging and
+distributing Python projects. It is used by setuptools
+(or distutils in older Python versions) to define the configuration
+of your project, such as its metadata, dependencies, and more
+'''
+
 from setuptools import find_packages, setup
 from typing import List
 
 
 def get_requirements() -> List[str]:
     """
-    This function returns the list of requirements.
+    This function will return list of requirements
     """
 
     requirement_list: List[str] = []
 
     try:
-        with open("requirements.txt", "r") as file:
+        with open('requirements.txt', 'r') as file:
             lines = file.readlines()
 
             for line in lines:
                 requirement = line.strip()
 
-                if requirement and requirement != "-e .":
+                if requirement and requirement != '-e .':
                     requirement_list.append(requirement)
 
     except FileNotFoundError:
@@ -28,8 +35,8 @@ def get_requirements() -> List[str]:
 setup(
     name="NetworkSecurity",
     version="0.0.1",
-    author="Snehasish Shaw",
-    author_email="",
+    author="Snehasish",
+    author_email="shawsnehasish64@gmail.com",
     packages=find_packages(),
-    install_requires=get_requirements(),
+    install_requires=get_requirements()
 )
