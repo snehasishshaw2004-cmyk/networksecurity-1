@@ -1,0 +1,93 @@
+Abnormal_URL:
+  drift_status: false
+  p_value: 1.0
+DNSRecord:
+  drift_status: false
+  p_value: 0.9678329238553122
+Domain_registeration_length:
+  drift_status: false
+  p_value: 0.9999999999999953
+Favicon:
+  drift_status: false
+  p_value: 0.9815608613035933
+Google_Index:
+  drift_status: false
+  p_value: 0.9999999995242794
+HTTPS_token:
+  drift_status: false
+  p_value: 1.0
+Iframe:
+  drift_status: false
+  p_value: 0.9550763067691993
+Links_in_tags:
+  drift_status: false
+  p_value: 0.9992678484641022
+Links_pointing_to_page:
+  drift_status: false
+  p_value: 0.6935262354697525
+Page_Rank:
+  drift_status: false
+  p_value: 0.9509356008253727
+Prefix_Suffix:
+  drift_status: false
+  p_value: 0.8367519047261819
+Redirect:
+  drift_status: false
+  p_value: 1.0
+Request_URL:
+  drift_status: false
+  p_value: 0.28016131059572247
+Result:
+  drift_status: false
+  p_value: 1.0
+RightClick:
+  drift_status: false
+  p_value: 0.9999999999583375
+SFH:
+  drift_status: false
+  p_value: 0.8167387097590696
+SSLfinal_State:
+  drift_status: false
+  p_value: 0.9724899562776417
+Shortining_Service:
+  drift_status: false
+  p_value: 0.9999983240636093
+Statistical_report:
+  drift_status: false
+  p_value: 0.9898658305124762
+Submitting_to_email:
+  drift_status: false
+  p_value: 1.0
+URL_Length:
+  drift_status: false
+  p_value: 0.7524987087460991
+URL_of_Anchor:
+  drift_status: false
+  p_value: 0.6057258505907922
+age_of_domain:
+  drift_status: false
+  p_value: 0.5828181003962636
+double_slash_redirecting:
+  drift_status: false
+  p_value: 0.9919000657713632
+having_At_Symbol:
+  drift_status: false
+  p_value: 0.9999999999948396
+having_IP_Address:
+  drift_status: false
+  p_value: 1.0
+having_Sub_Domain:
+  drift_status: false
+  p_value: 0.9371808063360356
+on_mouseover:
+  drift_status: false
+  p_value: 0.9954594053660641
+popUpWidnow:
+  drift_status: false
+  p_value: 0.9550763067691977
+port:
+  drift_status: false
+  p_value: 0.9999999999999983
+web_traffic:
+  drift_status: false
+  p_value: 0.9570634640071248

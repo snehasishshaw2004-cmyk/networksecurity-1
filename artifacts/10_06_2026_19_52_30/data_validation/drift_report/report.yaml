@@ -1,0 +1,93 @@
+Abnormal_URL:
+  drift_status: false
+  p_value: 0.5556286309673368
+DNSRecord:
+  drift_status: true
+  p_value: 0.038532269807065256
+Domain_registeration_length:
+  drift_status: false
+  p_value: 0.9962125273091533
+Favicon:
+  drift_status: false
+  p_value: 1.0
+Google_Index:
+  drift_status: false
+  p_value: 0.9999999999786612
+HTTPS_token:
+  drift_status: false
+  p_value: 0.787441848048418
+Iframe:
+  drift_status: false
+  p_value: 1.0
+Links_in_tags:
+  drift_status: false
+  p_value: 0.9999999976335158
+Links_pointing_to_page:
+  drift_status: false
+  p_value: 0.9993575225500246
+Page_Rank:
+  drift_status: false
+  p_value: 0.9999999999999953
+Prefix_Suffix:
+  drift_status: false
+  p_value: 0.9999999758245853
+Redirect:
+  drift_status: false
+  p_value: 0.9999999999583375
+Request_URL:
+  drift_status: false
+  p_value: 0.7300630194188386
+Result:
+  drift_status: false
+  p_value: 0.9443077816280203
+RightClick:
+  drift_status: false
+  p_value: 1.0
+SFH:
+  drift_status: false
+  p_value: 0.9992678484641024
+SSLfinal_State:
+  drift_status: false
+  p_value: 0.9976765190599375
+Shortining_Service:
+  drift_status: false
+  p_value: 0.8043509301542758
+Statistical_report:
+  drift_status: false
+  p_value: 0.993077119840179
+Submitting_to_email:
+  drift_status: false
+  p_value: 1.0
+URL_Length:
+  drift_status: false
+  p_value: 0.9971570562998898
+URL_of_Anchor:
+  drift_status: false
+  p_value: 0.8809531028770506
+age_of_domain:
+  drift_status: false
+  p_value: 0.8288470334227565
+double_slash_redirecting:
+  drift_status: false
+  p_value: 0.9766779273315584
+having_At_Symbol:
+  drift_status: false
+  p_value: 1.0
+having_IP_Address:
+  drift_status: false
+  p_value: 0.5965401799568069
+having_Sub_Domain:
+  drift_status: false
+  p_value: 0.999897967392436
+on_mouseover:
+  drift_status: false
+  p_value: 1.0
+popUpWidnow:
+  drift_status: false
+  p_value: 1.0
+port:
+  drift_status: false
+  p_value: 1.0
+web_traffic:
+  drift_status: false
+  p_value: 0.9983122730303216

@@ -96,3 +96,10 @@ MODEL_FILE_NAME: str = "model.pkl"
 MODEL_TRAINER_EXPECTED_SCORE: float = 0.6
 
 MODEL_TRAINER_OVER_FIITING_UNDER_FITTING_THRESHOLD: float = 0.05
+
+
+# ============================================================
+# SAVED MODEL CONSTANTS
+# ============================================================
+
+SAVED_MODEL_DIR: str = "final_model"
